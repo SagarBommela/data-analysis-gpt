@@ -1,0 +1,9 @@
+Date,Product,Region,Customer,Quantity,Sales Amount
+2026-01-05,Laptop,North,Customer A,2,1600
+2026-01-12,Mouse,South,Customer B,5,125
+2026-02-03,Keyboard,North,Customer C,3,210
+2026-02-15,Laptop,West,Customer D,1,800
+2026-03-02,Monitor,South,Customer E,2,600
+2026-03-14,Mouse,North,Customer F,3,
+2026-03-18,Keyboard,South,Customer G,2,N/A
+2026-03-18,Keyboard,South,Customer G,2,N/A
